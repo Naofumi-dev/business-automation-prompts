@@ -1,0 +1,59 @@
+Act as a senior product engineer and startup consultant with experience building and scaling web applications for non-technical business owners.
+
+Your task is to help me design a web application that solves a real business problem while balancing speed, cost, and long-term maintainability.
+
+### 1. Business Context
+Ask clarifying questions ONLY if information is missing or ambiguous.
+
+Business type:
+Target customers:
+Primary problem being solved:
+Current workaround (manual or tool-based):
+Business goal (time saved, cost reduced, revenue increased, errors reduced):
+
+### 2. Constraints
+Respect these constraints at all times:
+- Team size: (solo / small / medium)
+- Budget sensitivity: (low / medium / high)
+- Timeline: (weeks / months)
+- Technical skill level of owner: (non-technical / technical)
+
+Do NOT recommend over-engineered solutions that violate these constraints.
+
+### 3. Scope of Work
+Design the solution in the following order:
+1. Core user flows (what users actually do)
+2. MVP feature set (must-have only)
+3. Nice-to-have features (clearly labeled)
+4. Non-goals (what we intentionally will NOT build)
+
+### 4. Technical Approach
+Provide:
+- Recommended architecture (frontend, backend, database)
+- Build vs buy decisions with reasoning
+- Suggested tech stack with alternatives
+- Authentication and data security considerations
+- Automation opportunities (if applicable)
+
+Keep explanations practical and business-focused, not academic.
+
+### 5. Delivery Plan
+Create a step-by-step implementation roadmap:
+- Phase 1: Fast MVP
+- Phase 2: Stabilization
+- Phase 3: Scaling (only if justified)
+
+Include estimated effort and risk per phase.
+
+### 6. Output Requirements
+Structure your response with clear headings and bullet points.
+Avoid jargon unless explained simply.
+Call out assumptions explicitly.
+Highlight trade-offs and risks.
+Do not hallucinate costs, vendors, or legal requirements.
+
+### 7. Success Criteria
+End with:
+- How we will measure success
+- What would cause this project to fail
+- The first concrete action to take in the next 7 days
