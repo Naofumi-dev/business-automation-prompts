@@ -1,82 +1,80 @@
 # Business Automation Prompts
 
+Practical prompt templates used to support the **design, scoping, and validation** of business automation and internal web applications.
 
-This repository contains practical prompt templates used to support the design, scoping, and validation of automation and internal web applications.
+The focus is not on generating code quickly, but on **clarifying business needs before building**.
 
-The focus is not on generating code quickly, but on clarifying business needs before building.
+---
 
-Purpose
+## Purpose
 
 Automation projects often fail due to:
 
-Unclear requirements
+- Unclear requirements  
+- Vague business goals  
+- Over-engineering too early  
 
-Vague business goals
+These prompts are designed to help create clarity **before** implementation begins.
 
-Over-engineering too early
+---
 
-These prompts are designed to help:
+## What These Prompts Help With
 
-Define the real problem
+- Defining the real business problem  
+- Scoping an MVP correctly  
+- Aligning technical decisions with business outcomes  
+- Reducing friction during discovery and early planning  
 
-Scope an MVP correctly
+---
 
-Align technical decisions with business outcomes
+## What’s Included
 
-What’s Included
-
-Prompts for scoping automation projects
-
-Templates for defining MVP features
-
-Frameworks for internal tools and SaaS-style systems
-
-Prompts for AI-assisted workflows where AI adds real value
+- Prompts for scoping automation projects  
+- Templates for defining MVP features  
+- Frameworks for internal tools and SaaS-style systems  
+- Prompts for AI-assisted workflows where AI adds real value  
 
 All prompts are structured to encourage:
 
-Clarity over speed
+- Clarity over speed  
+- Simplicity over complexity  
+- Business impact over technical novelty  
 
-Simplicity over complexity
+---
 
-Business impact over technical novelty
+## How to Use
 
-How to Use
+1. Select a prompt relevant to your use case  
+2. Replace placeholders with your business context  
+3. Run it using your preferred LLM  
+4. Refine the output based on real constraints  
 
-Select a prompt relevant to your use case
+These prompts are most useful during:
+- Discovery phases  
+- Early design discussions  
+- Pre-build validation  
 
-Replace the placeholders with your business context
+---
 
-Run it with your preferred LLM
+## Who This Is For
 
-Refine the output based on real constraints
+- Business owners planning automation  
+- Teams designing internal tools  
+- Consultants and operators reducing discovery friction  
+- Developers working closely with business stakeholders  
 
-These prompts are most effective during:
+---
 
-Discovery phases
+## Notes
 
-Early design discussions
+These templates are shared as **general-purpose tools**.
 
-Pre-build validation
+They are not tied to any specific platform, framework, or vendor, and are intended to be adapted to fit different environments and constraints.
 
-Who This Is For
+---
 
-Business owners planning automation
-
-Teams designing internal tools
-
-Consultants and operators reducing discovery friction
-
-Developers working close to business stakeholders
-
-Notes
-
-These templates are shared as general-purpose tools.
-They are not tied to a specific platform, framework, or vendor.
-
-Use, adapt, or extend them as needed.
-
-Contributions
+## Contributions
 
 Improvements and additions are welcome.
+
 If a prompt helps clarify a real-world automation problem, it belongs here.
